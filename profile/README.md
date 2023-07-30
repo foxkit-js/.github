@@ -4,6 +4,8 @@ Foxkit is a project by [Mitsunee](https://github.com/Mitsunee) to help speed up 
 
 <p align="center"><img src="profile/assets/icon-192.png" alt="Foxkit"></p>
 
+Follow us on Mastodon at [@foxkit@fosstodon.org](https://fosstodon.org/@foxkit)
+
 ## Projects
 
 After previous experiments with a [monorepo] the project is moving back to the github org. All older repositories have been archived and projects will be migrated one-by-one. Some of the foxkit packages will receive full rewrites with many breaking changes. Here is an overview of migrated projects:
