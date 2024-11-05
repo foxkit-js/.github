@@ -2,7 +2,7 @@
 
 Foxkit is a project by [Mitsunee](https://github.com/Mitsunee) to help speed up development with utility packages, shareable configs and documentation.
 
-<p align="center"><img src="profile/assets/icon-192.png" alt="Foxkit"></p>
+<p align="center"><img src="./assets/icon-192.png" alt="Foxkit"></p>
 
 Follow us on Mastodon at [@foxkit@fosstodon.org](https://fosstodon.org/@foxkit)
 
