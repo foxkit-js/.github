@@ -23,3 +23,7 @@ To help with development on Node.js the [Node Utils](https://github.com/foxkit-j
 ### Foxkit List
 
 [Foxkit List](https://github.com/foxkit-js/list) is a Doubly-linked List datastructure for JavaScript and TypeScript. It's main advantage over Arrays is faster insertion times at the start or anywhere inbetween the list, where an Array would have to regenerate its index.
+
+### Foxkit Logger
+
+[Foxkit Logger](https://github.com/foxkit-js/logger) is a highly customizable Logger with TypeScript support out of the box.
