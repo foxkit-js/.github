@@ -1,29 +1,12 @@
-# Foxkit
+<h1 align="center">Foxkit</h1>
 
-Foxkit is a project by [Mitsunee](https://github.com/Mitsunee) to help speed up development with utility packages, shareable configs and documentation.
+<p align="center">Foxkit is a project by <a href="https://github.com/Mitsunee">Mitsunee</a> to help speed up development with utility packages, shareable configs and documentation.</p>
 
 <p align="center"><img src="./assets/icon-192.png" alt="Foxkit"></p>
 
-## Projects
+## About
 
-### Library Template
+Foxkit initially started as a collection of [utility packages](https://github.com/Mitsunee/foxkit/tree/main/packages/util#readme) and has since then expanded to a collection of packages, providing tools such as a [Linked List](https://github.com/foxkit-js/list) and a highly customizable [Logger](https://github.com/foxkit-js/logger) all with the goal of full TypeScript support out of the box.
 
-The [Foxkit Library Template](https://github.com/foxkit-js/library-template) is a template repository with a complete setup for dual-published npm packages with TypeScript support and pre-configured tooling like ESlint, Prettier (with git hooks), clean-publish and Github Actions.
-
-### ESLint Configs
-
-We currently offer two base configurations for ESLint (both supporting 8.57.0 and 9.x+): [eslint-config-foxkit](https://github.com/foxkit-js/eslint-config-foxkit) configures slightly modified and expanded base configurations for JavaScript and TypeScript development. [eslint-config-foxkit-react](https://github.com/foxkit-js/eslint-config-foxkit-react) adds support for JSX and React (and Preact!) and can also be used with meta-frameworks such as Astro!
-
-### Util packages
-
-A small collection of helper function for JavaScript and TypeScript development can be found it the Utils package. Currently still found in the [monorepo](https://github.com/Mitsunee/foxkit/tree/main/packages/util).
-
-To help with development on Node.js the [Node Utils](https://github.com/foxkit-js/node-util) package contains a variety of helper functions simplifying Node's API and providing some new features.
-
-### Foxkit List
-
-[Foxkit List](https://github.com/foxkit-js/list) is a Doubly-linked List datastructure for JavaScript and TypeScript. It's main advantage over Arrays is faster insertion times at the start or anywhere inbetween the list, where an Array would have to regenerate its index.
-
-### Foxkit Logger
-
-[Foxkit Logger](https://github.com/foxkit-js/logger) is a highly customizable Logger with TypeScript support out of the box.
+The [Foxkit Library Template](https://github.com/foxkit-js/library-template), is a template repository with a complete setup for dual-published npm packages with TypeScript support and pre-configured tooling like ESlint, Prettier and Github Actions.
+ESLint comes configured with the [Foxkit ESLint Config](https://github.com/foxkit-js/eslint-config-foxkit) which expands on recommended configurations by various plugins to provide a base configuration for modern development.
